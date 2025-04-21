@@ -24,5 +24,23 @@ This is a **mid-frequency trading strategy** developed for the **BTC/USDT** pair
 
 ## 🟢 Entry Criteria
 
-```python
-(dataframe['rsi'] > 60) & (dataframe['rsi'].shift(1) <= 60)
+
+    (dataframe['rsi'] > 60) & (dataframe['rsi'].shift(1) <= 60)
+
+
+
+
+🔴 Exit Criteria
+(dataframe['rsi'] < 41) & (dataframe['rsi'].shift(1) >= 41)
+
+
+🛡 Risk Management
+Stop Loss: 7%
+
+Leverage: None
+
+Shorting: Disabled
+
+Trade Direction: Long-only
+
+
