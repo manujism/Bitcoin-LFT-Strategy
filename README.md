@@ -35,12 +35,15 @@ This is a **mid-frequency trading strategy** developed for the **BTC/USDT** pair
 
 
 🛡 Risk Management
-Stop Loss: 7%
 
-Leverage: None
+  Stop Loss: 7%
 
-Shorting: Disabled
+  Leverage: None
+  
+  Shorting: Disabled
+  
+  Trade Direction: Long-only
 
-Trade Direction: Long-only
+  
 
 
