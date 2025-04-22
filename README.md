@@ -38,7 +38,7 @@ This is a **mid-frequency trading strategy** developed for the **BTC/USDT** pair
 
   Stop Loss: 7%
 
-  Leve
+  Leverage: 
   
   Shorting: Disabled
   
