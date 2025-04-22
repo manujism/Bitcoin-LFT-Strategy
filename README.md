@@ -46,7 +46,7 @@ This is a **mid-frequency trading strategy** developed for the **BTC/USDT** pair
 
 
 ✅ Advantages
-Simplicity: Single momentum indicator
+Simplicity: Single momentum indicator.
 
 Low Frequency: Avoids overtrading
 
